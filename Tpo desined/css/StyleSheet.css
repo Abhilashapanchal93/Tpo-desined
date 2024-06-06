@@ -1,0 +1,565 @@
+﻿@font-face{
+    font-family: algerian;
+    src: url (../vendor/alan-carr_algeria/ALGERIA.TTF);
+}
+ a { outline: none; 
+  text-decoration: none; }
+
+
+ * { outline: none; }
+
+  .login-page
+    {
+        background-image:url(../Images/college.jpg);
+        background-repeat:no-repeat;
+        background-size:cover;
+        position: relative;
+    }
+    
+    h1 { 
+        width: 1025px;
+        margin: 0 auto;
+        font-family: algerian;
+        font-size: 51px;
+        text-shadow: 5px 2px #fff;
+     }
+    .back
+    {
+        margin-bottom:10px;
+        color:Black;
+        text-align:left;
+        text-size:15px;
+    }
+.login
+{
+    width: 311px;
+    height: 375px;
+    padding-left: 22px;
+    border: 4px solid transparent;
+    margin:100px auto;
+    border-radius: 10px;
+    background-color: #fff;
+    opacity: 0.9;
+    position: relative;
+}
+.box
+{   border-spacing:20px;
+    border:2px;
+    width:1000px;
+    border-style:groove;
+    border-radius:15px;
+    margin-left: 175px;
+    margin-right:100px;
+    background-color: white;
+    opacity: .9;
+}
+.textbox
+{
+    margin-top: 10px;
+    margin-left: 74px;
+    margin-bottom: 20px;
+    width: 834px;
+    height: 25px;
+}  
+   
+   .textbox1
+{
+    width:950px;
+    height:40px;
+}  
+
+.textarea
+{
+     width: 950px;
+    row:10;
+    col:5;
+} 
+    
+ .header
+ {
+     width:1000px;
+     height:40px;
+     margin-left:75px;
+     margin-right:250px;
+     background-color:Gray;
+ }
+ .pers
+ {    width:995px;
+     height:80px;
+     margin-left:75px;
+     margin-right:250px;
+     border-style:groove;
+     
+ }
+ .career
+ {
+     width:995px;
+     height:80px;
+     margin-left:75px;
+     margin-right:250px;
+     border-style:groove;
+ }
+ .academic
+ {
+   width:995px;
+     height:280px;
+     margin-left:75px;
+     margin-right:250px;
+     border-style:groove;
+ } 
+ tr
+ {
+     width:;
+ }
+ td
+ {
+     width:160px;
+ } 
+ 
+ ul
+ {
+   list-style-type:none;
+  
+ }
+ li
+ {
+     float:left;
+     display:inline;
+     padding:8px;
+     margin:12px;
+ }
+
+ #Button1 {
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: #7fbf4d;
+ }
+
+ #Button1:hover { 
+ text-decoration: underline; }
+
+  #Button2 {
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: rgb(244, 67, 54);
+ }
+
+  #Button2:hover { 
+ text-decoration: underline; }
+
+ #username , #password { 
+    width: 182px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+#LinkButton5 {
+    width: 100px;
+    text-decoration: none;
+    color: rgb(53, 0, 255);
+    margin-left: 90px;
+    margin-top: 32px;
+    display: block;
+    border: 1px solid transparent;
+    padding-left: 15px;
+}
+
+#LinkButton5:hover{
+    text-decoration: underline;
+    border: 1px solid rgb(53, 0, 255);
+    border-radius: 10px;
+    color: #fff;
+    background-color: rgb(53, 0, 255);
+}
+
+.table1 {
+    position: absolute;
+    bottom: 50px;
+    right: 546px;
+    width: 260px;
+    height: 30px;
+}
+
+.login-page #TextBox1{
+    width: 260px;
+        height: 30px;
+}
+
+.reg-page {
+  background-image:url(../Images/White-Texture-HD-Backgrounds-5.jpg);
+}
+
+.std-pnl {
+  background-image:url(../Images/White-Texture-HD-Backgrounds-5.jpg);
+}
+
+.submit{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: #7fbf4d;
+    position: absolute;
+    bottom: -39px; 
+    right: 105px;
+}
+
+.submit:hover { text-decoration: underline; }
+
+
+.span{
+    margin: 10px 0  0 10px;
+}
+
+
+#TextBox60 { margin-bottom: 20px; }
+#TextBox61 {
+        margin-top: 20px;
+}
+
+#ImageButton1{
+        height: 29px;
+    width: 30px;
+    margin-bottom: -9px;
+}
+
+#TextBox62 { resize: none; }
+
+#DropDownList1 { margin-left: 0; margin-bottom: 20px; }
+
+b { 
+    margin: 10px;
+    font-size: 20px; 
+}
+
+.reg-page #Button2 {
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: #7fbf4d;
+}
+
+#Create {
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: #7fbf4d;
+    margin-left: 620px;
+}
+
+#Create:hover { text-decoration: underline; }
+
+.reg-page .box a {
+    text-decoration: none;
+    color: rgb(53, 0, 255);
+    margin-left: 90px;
+    margin-top: 32px;
+    display: inline-block;
+    border: 1px solid transparent;
+    padding-left: 15px;
+}
+
+ .reg-page .box a:hover{
+    text-decoration: underline;
+    border: 1px solid rgb(53, 0, 255);
+    border-radius: 10px;
+    color: #fff;
+    background-color: rgb(53, 0, 255);
+}
+.reg-page .span1 {  
+   font-weight: 400;
+    font-size: 20px;
+    color: black;
+}
+
+.reg-page #DropDownList6 {
+     margin-top: 19px;
+    margin-left: 74px;
+}
+
+ .reg-page .Be-title {
+    font-weight: 600;
+    font-size: 18px;
+    color: black;
+    text-align: center;
+}
+
+
+#update .textbox {
+    width: 834px;
+    height: 25px;
+    margin: 0;
+    margin-left: 20px;
+}
+
+#update .up-span  {
+    margin-left: 20px;
+}
+
+
+
+
+.std-pnl ul {
+     margin-bottom: 70px;
+    margin-left: 76px;
+}
+
+
+.std-pnl ul li {
+    float: left;
+    display: inline;
+    padding: 8px;
+    margin: 12px;
+        color: #fff;
+    background: #4DAABF;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    transition: all 1s ease;
+}
+.std-pnl ul li:hover {
+  color:  #4DAABF;
+    background: #fff;
+    border: 1px solid #4DAABF;
+}
+
+.std-pnl ul li a { color:#fff; transition: all 1s ease; }
+
+
+.std-pnl ul li a:hover { color: #000;  background: #fff; }
+
+.std-pnl #TextBox2 { 
+    margin-top: 10px;
+    margin-left: 45px;
+    margin-bottom: 20px;
+    width: 834px;
+    height: 25px;
+
+}
+
+.std-pnl #TextBox3 { 
+    margin-top: 10px;
+    margin-left: 45px;
+    margin-bottom: 20px;
+    width: 834px;
+    height: 25px;
+
+}
+
+.std-pnl #TextBox4 {
+margin-left: 25px;
+}
+
+.std-pnl #TextBox5 {
+      margin-left: 127px;
+}
+.std-pnl #TextBox6 { 
+    margin-top: 10px;
+    margin-left: 22px;
+    margin-bottom: 20px;
+    width: 100px;
+    height: 25px;
+
+}
+.std-pnl #TextBox7 { 
+    margin-top: 10px;
+    margin-left: 56px;
+    margin-bottom: 20px;
+    width: 100px;
+    height: 25px;
+
+}
+
+.std-pnl #TextBox8  { 
+    margin-top: 10px;
+    margin-left: 74px;
+    margin-bottom: 20px;
+    width: 834px;
+    height: 25px;
+
+}
+.std-pnl #TextBox10 { 
+    margin-top: 10px;
+    margin-left: 45px;
+    margin-bottom: 20px;
+    width: 834px;
+    height: 25px;
+
+}
+.std-pnl #TextBox9 { 
+    margin-top: 10px;
+    margin-left: 68px;
+    margin-bottom: 20px;
+    width: 834px;
+    height: 25px;
+
+}
+.std-pnl #TextBox11 { 
+    margin-top: 10px;
+    margin-left: 77px;
+    margin-bottom: 20px;
+    width: 834px;
+    height: 25px;
+
+}
+
+.std-pnl .snehal {
+  margin-left: 10px;
+}
+
+
+.std-pnl  #DropDownList1 {
+    margin-left: 77px;
+    margin-bottom: 20px;
+  }
+
+  .std-pnl  #DropDownList2{
+   margin-left: 49px; 
+  }
+
+
+ .std-pnl  #Label70 { display: none; }
+
+ .std-pnl  #Label1 { display: none; }
+
+
+ .std-pnl #FileUpload1 { 
+
+ margin-left: 145px;
+    
+
+  }
+
+
+   .std-pnl #Button6 {
+    width: 100px;
+margin-top: 20px;
+ margin-left: 145px;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: #4DAABF;
+  }
+
+
+   .std-pnl #Button6:hover {
+    color: #4DAABF;
+    background-color: #fff;
+   }
+
+
+   
+   .std-pnl #Button1 {
+        margin-bottom: 20px;
+   }
+
+
+   .std-pnl .acadamic {
+    margin-left: 20px;
+   }
+
+
+   .std-pnl #Button2 {
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: #7fbf4d;
+    margin-bottom: 20px;
+   }
+
+
+     .std-pnl #Button5 {
+    width: 120px;
+margin-top: 20px;
+ margin-left: 420px;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: #4DAABF;
+  }
+
+
+  .std-pnl #Button5:hover {
+    color:  #4DAABF;    background: #fff;
+  }
+   .std-pnl #Button5 {
+    width: 120px;
+margin-top: 20px;
+margin-left: 0;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: #4DAABF;
+  }
+
+
+  .std-pnl #Button5:hover {
+    color:  #4DAABF;    background: #fff;
+  }
+   .std-pnl #Button3 {
+    width: 120px;
+margin-top: 20px;
+ margin-left: 42px;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: #7fbf4d;
+  }
+
+
+  .std-pnl #Button3:hover {
+    color:  #7fbf4d;    background: #fff;
+  }
+
+
+
+   .std-pnl #Button4 {
+    width: 120px;
+margin-top: 20px;
+margin-bottom: 20px;
+ margin-left: 400px;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: #7fbf4d;
+  }
+
+
+  .std-pnl #Button4:hover {
+    color:  #7fbf4d;    background: #fff;
+  }
+
+
+ .std-pnl #Label35 { margin-top: 20px; display: block; }
+
+ .std-pnl #Button {
+    width: 120px;
+margin-top: 20px;
+margin-left: 0;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: #4DAABF;
+  }
+
+
+  .std-pnl #Button5:hover {
+    color:  #4DAABF;    background: #fff;
+  }
+
+   .std-pnl #Button7 {
+        width: 80px;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: rgb(244, 67, 54);
+    }
+
+    #Button7:hover { color: rgb(244, 67, 54);
+    background: #fff; }

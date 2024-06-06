@@ -1,0 +1,370 @@
+﻿.admn 
+{
+    background: url('Images/Tcs.png') no-repeat;
+    background-size: cover;
+}
+
+.menu {
+     margin-bottom: 70px;
+    margin-left: 250px;
+    border: 1px solid transparent;
+}
+
+
+.menu li {
+    float: left;
+    display: inline;
+    padding: 8px;
+    margin: 12px;
+        color: #fff;
+    background: #4DAABF;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    transition: all 1s ease;
+}
+.menu li:hover {
+  color:  #4DAABF;
+    background: #fff;
+    border: 1px solid #4DAABF;
+}
+
+.menu li a { color:#fff; transition: all 1s ease; }
+
+
+.menu li a:hover { color: #000;  background: #fff; }
+
+.list 
+{
+    padding: 10px;
+    font-size: 20px ;
+    font-weight: 500;
+    color: #fff;
+    text-decoration: none;
+    -webkit-transitio: border 1s linear,color 1s linear;
+}
+
+
+
+.list:hover 
+{
+    color: black;
+    background-color: Gray;
+    border-radius: 25%;
+}
+.view-list 
+{
+        margin-left: 106px;
+    text-align: center;
+    margin-top: 50px;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    width: 1000px;
+    display:inline-block;
+    background-color:#D3D3D3;
+    -webkit-filter: opacity(0.9);
+    border: 3px solid;
+}
+
+.menu li:hover body
+{
+    background: url('Images/IGate-Patni.jpg') no-repeat;
+    background-size: cover;
+}
+ /*   
+    #left {
+            float: left;
+    width: 368px;
+    height: 210px;
+    /* margin-left: 58px; */
+    padding-left: 106px;
+    }*/
+
+   /* #right {
+        float: left;
+    width: 439px;
+    height: 212px;
+    padding-left: 67px;
+    }*/
+
+   .main {     margin-top: 74px;
+    padding-left: 139px; }
+
+    #ImageButton1 { margin-bottom: -9px; }
+        
+        #btnstart,
+    #Button1,
+    #Button3,
+    #Button7 {
+        width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: #7fbf4d;
+    }
+
+#Button1,
+    #Button3,
+    #Button7:hover { text-decoration: underline; }
+
+    #Button8,#Button9 {
+         width: 100px;
+margin-top: 20px;
+ margin-left: 48px;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: #4DAABF;
+    }
+
+ #Button8:hover,#Button9:hover {
+    color: #4DAABF;
+    background-color: #fff;
+   }
+
+
+ 
+   #Button4,
+   #Button5,
+   #Button6 {
+     width: 100px;
+margin-top: 20px;
+ margin-left: 48px;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    
+    background: #5497F1;
+
+   }
+ #btnstart:hover,
+    #Button4:hover,
+   #Button5:hover,
+   #Button6:hover {
+    color: #5497F1;
+    background-color: #fff;
+   }
+
+   * { outline: none; }
+
+
+   .std-pnl ul {
+     margin-bottom: 70px;
+    margin-left: 76px;
+}
+
+
+.std-pnl ul li {
+    float: left;
+    display: inline;
+    padding: 8px;
+    margin: 12px;
+        color: #fff;
+    background: #4DAABF;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    transition: all 1s ease;
+}
+.std-pnl ul li:hover {
+  color:  #4DAABF;
+    background: #fff;
+    border: 1px solid #4DAABF;
+}
+
+.std-pnl ul li a { color:#fff; transition: all 1s ease; }
+
+
+.std-pnl ul li a:hover { color: #000;  background: #fff; }
+
+.std-pnl #TextBox2 { 
+    margin-top: 10px;
+    margin-left: 45px;
+    margin-bottom: 20px;
+    width: 834px;
+    height: 25px;
+
+}
+
+.std-pnl #TextBox3 { 
+    margin-top: 10px;
+    margin-left: 45px;
+    margin-bottom: 20px;
+    width: 834px;
+    height: 25px;
+
+}
+
+.std-pnl #TextBox4 {
+margin-left: 25px;
+}
+
+.std-pnl #TextBox5 {
+      margin-left: 127px;
+}
+.std-pnl #TextBox6 { 
+    margin-top: 10px;
+    margin-left: 22px;
+    margin-bottom: 20px;
+    width: 100px;
+    height: 25px;
+
+}
+.std-pnl #TextBox7 { 
+    margin-top: 10px;
+    margin-left: 56px;
+    margin-bottom: 20px;
+    width: 100px;
+    height: 25px;
+
+}
+
+.std-pnl #TextBox8  { 
+    margin-top: 10px;
+    margin-left: 74px;
+    margin-bottom: 20px;
+    width: 834px;
+    height: 25px;
+
+}
+.std-pnl #TextBox10 { 
+    margin-top: 10px;
+    margin-left: 45px;
+    margin-bottom: 20px;
+    width: 834px;
+    height: 25px;
+
+}
+.std-pnl #TextBox9 { 
+    margin-top: 10px;
+    margin-left: 68px;
+    margin-bottom: 20px;
+    width: 834px;
+    height: 25px;
+
+}
+.std-pnl #TextBox11 { 
+    margin-top: 10px;
+    margin-left: 77px;
+    margin-bottom: 20px;
+    width: 834px;
+    height: 25px;
+
+}
+
+.std-pnl .snehal {
+  margin-left: 10px;
+}
+
+
+.std-pnl  #DropDownList1 {
+    margin-left: 77px;
+    margin-bottom: 20px;
+  }
+
+  .std-pnl  #DropDownList2{
+   margin-left: 49px; 
+  }
+
+
+ .std-pnl  #Label70 { display: none; }
+
+ .std-pnl  #Label1 { display: none; }
+
+
+ .std-pnl #FileUpload1 { 
+
+ margin-left: 145px;
+    
+
+  }
+
+
+   .std-pnl #Button6 {
+    width: 100px;
+margin-top: 20px;
+ margin-left: 145px;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: #4DAABF;
+  }
+
+
+   .std-pnl #Button6:hover {
+    color: #4DAABF;
+    background-color: #fff;
+   }
+
+
+   
+   .std-pnl #Button1 {
+        margin-bottom: 20px;
+   }
+
+
+   .std-pnl .acadamic {
+    margin-left: 20px;
+   }
+
+
+   .std-pnl #Button2 {
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: #7fbf4d;
+    margin-bottom: 20px;
+   }
+
+
+     .std-pnl #Button5 {
+    width: 120px;
+margin-top: 20px;
+ margin-left: 420px;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: #4DAABF;
+  }
+
+
+  .std-pnl #Button5:hover {
+    color:  #4DAABF;    background: #fff;
+  }
+   .std-pnl #Button3 {
+    width: 120px;
+margin-top: 20px;
+ margin-left: 42px;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: #7fbf4d;
+  }
+
+
+  .std-pnl #Button3:hover {
+    color:  #7fbf4d;    background: #fff;
+  }
+
+   .std-pnl #Button4 {
+    width: 120px;
+margin-top: 20px;
+margin-bottom: 20px;
+ margin-left: 400px;
+    height: 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: #7fbf4d;
+  }
+
+
+  .std-pnl #Button4:hover {
+    color:  #7fbf4d;    background: #fff;
+  }
+
+
+ .std-pnl #Label35 { margin-top: 20px; display: block; }
+
+
+ .admn {
+  background-image:url(file:///C:/Users/rupesh/Downloads/Tpo%20desined/Images/Tcs.png) !important;
+}
